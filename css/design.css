@@ -117,3 +117,6 @@ body{
       background-color: #4ba6c3;
       color: #fff;
     }
+    .student-item.cf:nth-of-type(n+2) {
+            /*display: none;*/
+/*background-color: lightgrey;*/
